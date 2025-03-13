@@ -1,0 +1,5 @@
+provider: bdev:bee
+id: bee
+
+settings:
+  title: '&cУдарь пчелу!'

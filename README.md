@@ -1,0 +1,1 @@
+Addon for [BCases](https://github.com/By1337/BCases) adding new animations.
